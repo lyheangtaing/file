@@ -1,0 +1,16 @@
+{
+  "miniAppId": "merchant-demo",
+  "version": "1.0.0",
+  "files": [
+    {
+      "id": "home_banner",
+      "path": "images/home_banner.jpg",
+      "url": "https://picsum.photos/seed/android-runtime-banner/1600/900"
+    },
+    {
+      "id": "merchant_logo",
+      "path": "images/merchant_logo.jpg",
+      "url": "https://picsum.photos/seed/android-runtime-logo/512/512"
+    }
+  ]
+}
